@@ -1,14 +1,21 @@
 # Bienvenue sur Air B'n'Dogs !
 
-## Petit exercice THP sur les migrations et les models.
+## Exercice THP sur les migrations et les models.
 
-$ bundle install 
+Au menu : 
+- générer une seed grace à faker
+- relations 1 to N 
+- relations N to N
 
-$ rails db:create 
+## Pour remplir la base de données 
 
-$ rails db:migrate
+- $ bundle install 
+- $ rails db:create 
+- $ rails db:migrate
+- $ rails db:seed
 
-$ rails db:seed
+## Gems utilisées : 
 
-Gems utilisées : faker, table_print
+- faker
+- table_print
 
