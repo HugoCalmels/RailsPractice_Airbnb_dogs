@@ -1,24 +1,11 @@
-# README
+# Bienvenue sur Air B'n'Dogs !
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Petit exercice THP sur les migrations et les models.
 
-Things you may want to cover:
+$ bundle install 
+$ rails db:create 
+$ rails db:migrate
+$ rails db:seed
 
-* Ruby version
+Gems utilisées : faker, table_print
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
